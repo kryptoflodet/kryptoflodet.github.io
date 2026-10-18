@@ -807,6 +807,136 @@
           "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower"
         }
       ]
+    },
+    {
+      "id": "2026-10-18",
+      "title": "Kryptoveckan: bitcoinfinansiering, skärpt USDC-tillsyn och nästa steg för ENS",
+      "dek": "Företagens bitcoinstrategier tog olika uttryck samtidigt som EU gav USDC en ny tillsynsstatus. Vi går igenom fem verifierade besked från veckan och förklarar skillnaden mellan genomförda affärer, förslag och tekniska förberedelser.",
+      "publishedAt": "2026-10-18T20:03:08+02:00",
+      "period": "12–18 oktober 2026",
+      "readingMinutes": 5,
+      "takeaways": [
+        "Strategy rapporterade bitcoinförvärv, medan Strive presenterade en finansieringsplan där nya bitcoinköp är ett möjligt användningsområde.",
+        "USDC får förstärkt EU-tillsyn från den 12 november; beskedet är ingen garanti mot alla risker.",
+        "Australiens derivatförslag och ENS:s konfigurationsrättningar visar varför villkor och genomförande behöver granskas noga."
+      ],
+      "sections": [
+        {
+          "heading": "Veckan bakom rubrikerna",
+          "paragraphs": [
+            "Veckans urval täcker måndagen den 12 oktober till söndagens publicering. Efter mittveckans genomgång av marknadsoron riktar vi här blicken mot konkreta bolagsbesked, tillsyn och utvecklingen av kryptotjänster. Det är ingen fullständig inventering av marknaden. Den röda tråden är vad beskeden faktiskt innebär för ägande, finansiering och användning."
+          ],
+          "sourceIds": [
+            "strategy",
+            "strive",
+            "eba",
+            "asic",
+            "ens"
+          ]
+        },
+        {
+          "heading": "Strategy rapporterade köp av 250 bitcoin",
+          "paragraphs": [
+            "Den 12 oktober meddelade Strategy att bolaget hade förvärvat 250 BTC och återköpt preferensaktier av typen STRC för 192 miljoner dollar. Bitcoinförvärven finansierades enligt pressmeddelandet med 21 miljoner dollar från försäljning av vanliga MSTR-aktier och 0,5 miljoner dollar från bolagets kontanta medel. Rapporteringen kom denna vecka; den berörda rapportperioden var den 5–11 oktober.",
+            "Beskedet visar att en bitcoininriktad bolagsstrategi också omfattar hur företaget hanterar sina egna aktier och betalningsåtaganden. Ett aktieåterköp är inte ett bitcoinköp: bolaget använder då pengar för att köpa tillbaka ett eget värdepapper.",
+            "Vår bedömning är att finansieringen är lika viktig att följa som antalet bitcoin. Kapital som används på ett område är inte samtidigt tillgängligt för ett annat. Rapporten belägger bolagets redovisade aktiviteter, men säger inte hur nästa köp blir eller hur bitcoinpriset kommer att reagera."
+          ],
+          "sourceIds": [
+            "strategy"
+          ]
+        },
+        {
+          "heading": "Strive planerade ett nytt värdepapper med bitcoin i användningsplanen",
+          "paragraphs": [
+            "Den 13 oktober presenterade Strive planer på att ge ut fem miljoner preferensaktier av typen SATS. Sådana aktier har särskilda ekonomiska villkor jämfört med vanliga aktier. Den angivna årliga utdelningssatsen är 15 procent på ett fastställt belopp på 100 dollar per aktie. Utbetalningar är villkorade av bland annat styrelsebeslut och lagligt tillgängliga medel.",
+            "Bolaget uppgav att kapitalet kan användas till bitcoin och bitcoinrelaterade produkter, men också till rörelsekapital, andra tillgångar och återköp av egna aktier. Det är därför fel att räkna hela ett planerat emissionsbelopp som ett redan genomfört bitcoinköp. Själva erbjudandet var dessutom beroende av marknadsläget och andra villkor.",
+            "Den viktiga skillnaden för läsaren är mellan en tillgång och finansieringen av den. Utdelningssatsen beskriver villkoren för ett företags värdepapper; den är inte en avkastning som Bitcoin-nätverket betalar. Framöver blir genomförandet och den faktiska kapitalanvändningen mer upplysande än planens storlek."
+          ],
+          "sourceIds": [
+            "strive"
+          ]
+        },
+        {
+          "heading": "USDC blev EU:s första betydande e-pengatoken",
+          "paragraphs": [
+            "Den europeiska bankmyndigheten EBA meddelade den 14 oktober att USDC, utgiven av Circle Internet Financial Europe SAS, klassificeras som en betydande e-pengatoken enligt EU:s kryptoregler MiCA. USDC är den första token som får denna klassificering. En e-pengatoken är i det här sammanhanget en kryptotillgång som ska följa värdet av en officiell valuta.",
+            "Från den 12 november ska EBA ta över direkta tillsynsuppgifter för bland annat kapitalbas, reserver, likviditetskrav samt återhämtnings- och inlösenplaner. Den franska myndigheten ACPR behåller tillsynen över andra områden, exempelvis bolagsstyrning och intressekonflikter. Det handlar alltså om ett delat ansvar, inte att all tillsyn flyttas.",
+            "För den som följer stablecoins är ansvarsfördelningen relevant: vem granskar utgivaren och vilka delar kontrolleras? Vår tolkning är att beskedet gör dessa frågor tydligare för en stor aktör. Klassificeringen ska däremot inte läsas som en garanti för att tokenen eller varje tjänst som använder den är riskfri."
+          ],
+          "sourceIds": [
+            "eba"
+          ]
+        },
+        {
+          "heading": "Australien föreslog skydd för fler kryptoderivat",
+          "paragraphs": [
+            "Den 12 oktober öppnade Australiens finansinspektion ASIC ett samråd om att förlänga och ändra skydden för CFD-handel. En CFD är ett avtal vars värde följer en annan tillgång, ofta med belåning. Kryptokopplingen ligger bland annat i förslaget att även omfatta vissa derivat som avvecklas genom överföring av digitala tillgångar i stället för kontanter.",
+            "ASIC vill att ekonomiskt likvärdiga produkter ska behandlas konsekvent oavsett avvecklingssätt. Vissa kryptoterminer och optioner med fast slutdatum skulle fortfarande ligga utanför reglerna. Det är ett förslag, inte ett redan gällande totalförbud mot kryptoderivat. Synpunkter kan lämnas till den 9 november.",
+            "Myndigheten redovisade samtidigt nettoförluster på över 458 miljoner australiska dollar för privathandlare under räkenskapsåret 2023–24. Siffran avser CFD-handel generellt och får inte beskrivas som enbart kryptoförluster. Det relevanta för kryptosektorn är försöket att minska regelmässiga luckor när liknande risker paketeras på olika sätt."
+          ],
+          "sourceIds": [
+            "asic"
+          ]
+        },
+        {
+          "heading": "ENS rättade konfiguration inför nästa version",
+          "paragraphs": [
+            "I diskussionen om att aktivera ENSv2 meddelade ENS-utvecklaren nick.eth den 13 oktober att konfigurationsproblem hade upptäckts i den ursprungliga driftsättningen. Berörda kontrakt hade därför driftsatts på nytt och flera adresser i förslaget ändrats. ENS:s nyhetsbrev den 15 oktober beskrev fortfarande aktiveringen som ett förslag med väntande omröstning.",
+            "ENS kopplar läsbara namn, exempelvis namn som slutar på .eth, till information som annars kan kräva långa blockkedjeadresser. I uppgraderingsförslaget skiljs flera steg åt: kontrakten kan vara driftsatta innan registrering och namnuppslagning faktiskt har flyttats över. Ett tekniskt förberedelsesteg är därför inte samma sak som en färdig lansering.",
+            "Enligt förslaget ska befintliga namn kunna fortsätta fungera och förnyas utan omedelbar migration. En genomförd flytt till v2 är däremot inte reversibel. För användare är det viktigare att förstå dessa villkor och följa officiella besked än att tolka varje kodändring som att övergången redan är klar."
+          ],
+          "sourceIds": [
+            "ens",
+            "ens-newsletter"
+          ]
+        },
+        {
+          "heading": "Det här är värt att följa",
+          "paragraphs": [
+            "Nästa kontrollpunkt är genomförandet: vilka bolagsaffärer redovisas som avslutade, hur används nytt kapital och hur förbereds den förändrade tillsynen? För tekniska uppgraderingar behöver beslutsstatus, driftsättning och faktisk användning hållas isär.",
+            "Veckans redaktionella slutsats är enkel: ett besked får sin betydelse genom detaljerna. Originalkällornas datum och villkor hjälper oss skilja vad som redan hänt från vad som kan hända. De ger ingen säker vägledning om nästa kursrörelse."
+          ],
+          "sourceIds": [
+            "strategy",
+            "strive",
+            "eba",
+            "asic",
+            "ens"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "strategy",
+          "name": "Strategy – bolagets köp- och kapitalrapport, 12 oktober 2026",
+          "url": "https://www.strategy.com/press/strategy-acquires-250-btc-and-repurchases-192-million-of-strc_10-12-2026"
+        },
+        {
+          "id": "strive",
+          "name": "Strive – planerat erbjudande av SATS-aktier, 13 oktober 2026",
+          "url": "https://investors.strive.com/news-events/news-releases/news-details/2026/Strive-Announces-Proposed-Initial-Public-Offering-of-SATS-Stock/default.aspx"
+        },
+        {
+          "id": "eba",
+          "name": "EBA – USDC klassificeras som betydande e-pengatoken, 14 oktober 2026",
+          "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union"
+        },
+        {
+          "id": "asic",
+          "name": "ASIC – samråd CS 64 om CFD-skydd, 12 oktober 2026",
+          "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/consultations/cs-64-protecting-retail-investors-proposed-extension-and-amendments-to-the-cfd-product-intervention-order"
+        },
+        {
+          "id": "ens",
+          "name": "ENS DAO – aktiveringsförslag med daterad uppdatering 13 oktober 2026",
+          "url": "https://discuss.ens.domains/t/executable-activate-ensv2/22483"
+        },
+        {
+          "id": "ens-newsletter",
+          "name": "ENS DAO – veckans utvecklings- och beslutsstatus, 15 oktober 2026",
+          "url": "https://discuss.ens.domains/t/ens-dao-newsletter-10-15-2026/22494"
+        }
+      ]
     }
   ]
 }
