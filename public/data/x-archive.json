@@ -3,6 +3,41 @@
   "posts": [
     {
       "sourceTruncated": false,
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HU-rjXFWIAAMTkO.jpg",
+          "alt": ""
+        }
+      ],
+      "id": "2112095762750308774",
+      "handle": "TheMoonShow",
+      "author": "The Moon Show",
+      "sourceId": "moon-x",
+      "url": "https://x.com/TheMoonShow/status/2112095762750308774",
+      "publishedAt": "2026-10-19T08:17:25Z",
+      "text": "🚨 Bitcoin long liquidations are getting smaller in $BTC terms, but the dollar losses tell another story.\n\nMarch 2020: 180K BTC liquidated ≈ $900M\n\nRecent flushes: 10K BTC ≈ $811M\n\nLeverage risk hasn't disappeared. https://t.co/KClQ026hxx",
+      "coins": [
+        "BTC"
+      ],
+      "categories": [
+        "Bitcoin"
+      ],
+      "originalLanguage": "en",
+      "kind": "original-x-post",
+      "verified": false,
+      "discoveredVia": "x-embed",
+      "contextSource": null,
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
+      "swedish": {
+        "text": "Likvidationerna av långa Bitcoin-positioner blir mindre uttryckta i BTC, men förlusterna i dollar visar en annan bild.\n\nMars 2020: 180 000 BTC såldes, vilket motsvarar cirka 900 miljoner dollar.\n\nNyligen genomförda transaktioner: 10 000 BTC ≈ 811 miljoner dollar.\n\nRiskerna som är förknippade med hävstång har inte försvunnit.",
+        "method": "translation",
+        "sourceHash": "35ee232469a96fc239c9ddaea1d68a284777814cb149486817efcad9c6751527",
+        "engine": "translategemma-12b-sv-v1",
+        "qualityVersion": "x-swedish-v5"
+      }
+    },
+    {
+      "sourceTruncated": false,
       "media": [],
       "id": "2112087033921290442",
       "handle": "WatcherGuru",
@@ -22,7 +57,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin är åter på 83 000 dollar.",
         "method": "translation",
@@ -56,7 +91,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "BITCOIN är åter på 83 000 dollar.",
         "method": "translation",
@@ -90,7 +125,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "När Bitcoin väl har övervunnit detta motstånd...\n\n100 000 dollar är nästa mål!",
         "method": "translation",
@@ -125,7 +160,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Senaste nytt: Aktier som representeras av digitala tokens på #Solana finns nu på 1,4 miljoner olika adresser.\n\nÄr du en av dem?",
         "method": "translation",
@@ -162,7 +197,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Friskt kapital på väg.\n\nMarknaderna kommer att få en injektion på 14,61 miljarder dollar från Federal Reserve, vilket kommer att ske under tre veckor, med start denna vecka.\n\nDet är en positiv och konstruktiv grund för kryptovalutor.",
         "method": "translation",
@@ -197,7 +232,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Boom! Bitcoin har bekräftat ytterligare en veckovis stängning över det glidande medelvärdet för 50 veckor!\n\nSer mycket bra ut.",
         "method": "translation",
@@ -232,7 +267,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "God nyhet för de handlare som förväntar sig att priserna ska stiga!\n\nBTC:s veckodiagram visade att kursen inte stängde under 80 000 dollar.\n\nNu behöver vi bara återta den orangea linjen.\n\nSkicka det!",
         "method": "translation",
@@ -271,7 +306,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Plånböcker som är kopplade till företaget Mara Holdings har under de senaste fem dagarna överfört 1 000 bitcoin (ungefär 82,8 miljoner dollar) till börserna Binance och Gate.\n\nDet ser ut som att gruvbolaget kanske minskar sin andel.",
         "method": "translation",
@@ -306,7 +341,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Från Bitcoin till aktier.\n\nEfter att ha realiserat en förlust på 3,26 miljoner dollar på en stor lång position i BTC, öppnade samma plånbok positioner med maximal hävstång i Tesla, DRAM och SOXL, vilket totalt motsvarade en nominell exponering på över 46 miljoner dollar.",
         "method": "translation",
@@ -341,7 +376,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin försöker just nu att bryta igenom en viktig nivå!\n\nÄr vi på väg att bevittna en ny \"Gudljus\"-händelse, likt den vi såg förra gången?",
         "method": "translation",
@@ -374,7 +409,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "enorm uppgång: Är \"Black Monday\" inställt?\n\nAktiefuturerna i USA och kryptomarknaderna visar en kraftig återhämtning.\n\nSociala medier översvämmades av förutsägelser om börskrascher efter förra veckans nedgång för aktier inom AI och chipteknologi.\n\nHittills ser det ut som att \"Black Monday\" kommer att bli en \"grön dag\".\n\nMen det är fortfarande en lång dag kvar.",
         "method": "translation",
@@ -415,7 +450,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin och Ethereum stiger trots varningar om en potentiell marknadskrasch, liknande den som inträffade en \"svart måndag\".\n\n\"Grön måndag\" istället för \"svart måndag\"?",
         "method": "translation",
@@ -450,7 +485,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin har gjort ett stort genombrott den här veckan!!!",
         "method": "translation",
@@ -485,7 +520,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "bekräftat: Bitcoin kommer att nå en prisnivå på 1 000 000 dollar.",
         "method": "translation",
@@ -520,7 +555,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Djup samverkan kring ONDO här.\n\n\"Golden pocket\" plus högsta punkten i värdeområdet.\n\nOm detta område håller, ser strukturen fortfarande mycket lovande ut för en fortsatt utveckling.",
         "method": "translation",
@@ -548,7 +583,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Grattis, du är i tid.\n\nRevolutionen inom tokenisering har precis börjat.\n\nTrillions av tillgångar är på väg att flyttas till blockkedjan.\n\nDetta kan vara den största möjligheten till förmögenhetsökning för vår generation.",
         "method": "translation",
@@ -583,7 +618,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Antalet köp av Ethereum-kontrakt ökar kraftigt.\n\nJu fler \"lång\"-positioner i ETH de öppnar.\n\nJu större den förväntade \"short squeeze\"-effekten blir...",
         "method": "translation",
@@ -622,7 +657,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "massive: Federal Reserve kommer att injicera upp till 5 480 000 000 dollar i ekonomin nästa vecka.\n\nPositiv inställning till BTC.",
         "method": "translation",
@@ -657,7 +692,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Är en \"short squeeze\" på BTC på väg att inträffa?\n\nDet finns en enorm mängd likviditet som samlas ovanför Bitcoins nuvarande pris.\n\nNär Bitcoin väl börjar röra sig, kan den rusa rakt upp!",
         "method": "translation",
@@ -688,7 +723,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Nya affärer med Bitcoin och andra kryptovalutor delas dagligen i min handelsgrupp!\n\n100% gratis att ansluta sig.",
         "method": "translation",
@@ -721,7 +756,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "galen: Enligt denna graf kan priset på $fet potentiellt öka med en faktor 60 från nuvarande nivåer.\n\nVilka alternativa kryptovalutor ska jag analysera och presentera diagram för härnäst?",
         "method": "translation",
@@ -760,7 +795,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Handlare på Kalshi förväntar sig att Bitcoin ska sjunka till 78 000 dollar i oktober.\n\nHåller du med?",
         "method": "translation",
@@ -795,7 +830,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Endast en påminnelse: Bitcoin har ökat med över 923% under de senaste 7 åren.\n\nFöreställ dig nu hur de kommande 7 åren skulle kunna se ut.\n\nUnderskatta inte vad som kommer att hända.",
         "method": "translation",
@@ -830,7 +865,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoins lägsta mål för denna cykel kan vara 150 000 dollar.\n\nOch den riktiga uppgången ligger fortfarande framför oss.\n\nDet bästa kommer ännu.",
         "method": "translation",
@@ -869,7 +904,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Tom Lee är optimistisk angående Ethereum.\n\nHans förväntade pris för ethereum:native under det här året är 5 000 dollar.\n\nTror du att ETH kan lyckas?",
         "method": "translation",
@@ -904,7 +939,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "En handlare sitter på en outrealiserad förlust på 235 000 dollar i ZEC och har ännu inte stängt positionen.\n\n10 gånger så stor chans, 10 000 mynt, inträde 1 146,86 dollar. Zec har minskat med över 24 % under den senaste månaden.\n\nDeras position i ETH med 25 gångers hävstång har ökat med 61 000 dollar, så det är inte bara förlust.\n\nMen den där ZEC-positionen är verkligen en prövning för tålamodet just nu.",
         "method": "translation",
@@ -939,7 +974,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin har aldrig haft två \"röda oktobermånader\" i rad.\n\nFörra oktober: -3,69 %.\nDenna oktober: -2,25 % hittills.\n\nHistorien säger att \"Uptober\" fortfarande har en chans.",
         "method": "translation",
@@ -974,7 +1009,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "El Salvador bromsar inte in!\n\n8 BTC har tillkommit denna vecka.\n31 BTC har tillkommit denna månad.\n\nTotala innehav: 7 808,37 BTC, motsvarande 638 miljoner dollar.\n\nInvesteringen i Bitcoin fortsätter.",
         "method": "translation",
@@ -1009,7 +1044,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Medan alla satsar på en \"svart måndag\", har den här stora investeraren precis öppnat en lång position i BTC värd 110 miljoner dollar med en hävstång på 40 gånger.\n\nVet han något som resten av marknaden inte vet?",
         "method": "translation",
@@ -1044,7 +1079,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Senaste nytt: Bitcoin har återigen nått en historisk fas av ackumulering.\n\nBTC:s MVRV-procentandel har sjunkit till 25,7 % efter att ha mött motstånd nära 87 000 dollar.\n\nExtremt låga värderingar kanske ligger bakom oss, men signalen om att ackumulera (investera) kvarstår.",
         "method": "translation",
@@ -1080,7 +1115,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "De amerikanska spot-Bitcoin-börshandlade fonderna noterade ett nettoflöde av uttag på 228,58 miljoner dollar under den senaste veckan, jämfört med 681,1 miljoner dollar förra veckan.\n\nFörsäljningstrycket avtar, och nettoutflödet har minskat med över 66 %.",
         "method": "translation",
@@ -1115,7 +1150,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Boom! Det finns betydligt fler köporder för Bitcoin än säljorder.\n\nDu vet vad det här betyder…",
         "method": "translation",
@@ -1150,7 +1185,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Varning till innehavare av Bitcoin!\n\nDetta är bara den första omstruktureringen.\n\nOm du klarar dig genom dessa perioder av turbulens, kommer du att bli otroligt rik under denna uppgång på marknaden!\n\n\"FOMO\" är på väg.",
         "method": "translation",
@@ -1185,7 +1220,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "En ny \"gyllene korsning\" för Bitcoin signalerar!\n\nVad händer härnäst, kommer det att bli enormt.",
         "method": "translation",
@@ -1222,7 +1257,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "BTC har precis sjunkit till 81 000, medan ETH har fallit under 2 400 dollar.\n\nFör över 115 miljoner dollar värda långpositioner har avyttrats under de senaste 60 minuterna.\n\nÄven under helgen ser vi en ökning av användningen av hävstång.",
         "method": "translation",
@@ -1255,7 +1290,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Grattis, dina #altcoins är på väg att explodera.\n\nDe kommande 3-6 månaderna kommer att bli helt fantastiska.",
         "method": "translation",
@@ -1291,7 +1326,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin-börshandlade fonder (ETFer) såldes för 228 miljoner dollar under den senaste veckan.\n\nNettouttag under månaden hittills uppgår till 618 miljoner dollar.\n\nKan \"Uptober\" fortfarande räddas?",
         "method": "translation",
@@ -1326,7 +1361,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "ETH kan ha nått botten.\n\nEn fullständig rensning av de lägre nivåerna.\n\nNu behöver alla handlare som förväntar sig att priserna ska stiga bara att priset återigen stiger över 2 460 dollar.",
         "method": "translation",
@@ -1361,7 +1396,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Denna veckovisa slutkurs för BTC kommer att berätta allt för oss.\n\nOm priset stiger över ~82 300 dollar kan det indikera att den tidigare nedgången var en falsk signal.\n\nOm priset faller under den här nivån, öppnas möjligheten för en betydligt större nedgång.",
         "method": "translation",
@@ -1401,7 +1436,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "rykten: Evernorth, plattformen för XRP-reserver, överväger enligt uppgift att köpa ytterligare XRP för ett värde av 655 miljoner dollar nästa vecka.\n\nEnormt om det stämmer!",
         "method": "translation",
@@ -1436,7 +1471,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Om Bitcoin studsar tillbaka från det glidande medelvärdet för 50 dagar, kan situationen bli mycket positiv.\n\nBaserat på Bitcoins utveckling under oktober månad 2023 och 2024, kan vi vara på väg mot en stor uppgång.\n\nDetta är avgörande ögonblicket för Bitcoin!",
         "method": "translation",
@@ -1464,7 +1499,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bank for International Settlements konstaterar att kryptovalutor av typen \"stablecoins\" direkt konkurrerar med traditionella bankinsättningar.",
         "method": "translation",
@@ -1499,7 +1534,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Jag beklagar, Bitcoin-innehavare...\n\nKraschen har bara börjat.",
         "method": "translation",
@@ -1527,7 +1562,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Intressant fakta: Mindre än 10 % av den globala befolkningen investerar i kryptovalutor.",
         "method": "translation",
@@ -1562,7 +1597,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Enorm Bitcoin-uppgång är på väg!!!",
         "method": "translation",
@@ -1597,7 +1632,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Detta ÄR Bitcoins viktigaste helg på 2 månader!\n\nAntingen studsar vi tillbaka från det glidande medelvärdet för 50 veckor, eller så...\n\neller så är vi tvungna att testa nivån 75 000 dollar igen.",
         "method": "translation",
@@ -1627,7 +1662,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Om jag skickade dig 1 Bitcoin, skulle det verkligen förändra ditt liv?",
         "method": "translation",
@@ -1666,7 +1701,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "massive: Sannolikheten för en räntehöjning i oktober har sjunkit till en ny månadslägsta nivå på 14%.\n\nPositiv inställning till Bitcoin.",
         "method": "translation",
@@ -1697,7 +1732,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "stellar:native vill följa samma väg som sin äldre bror XRP!\n\nEn omfattande brytning genom flera motståndsnivåer är på väg.",
         "method": "translation",
@@ -1800,7 +1835,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Alternativa kryptovalutor är på väg att få ett stort genomslag.\n\nFörbered dig för stora vinster!",
         "method": "translation",
@@ -1830,7 +1865,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Föreställ dig att du paniksäljer dina Bitcoin...\n\nOch att vakna nästa morgon till den största \"gröna stapeln\" (prisökning) i cykeln.",
         "method": "translation",
@@ -1902,7 +1937,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "NFT:er är inte döda ännu.\n\nDen veckovisa försäljningen ökade med nästan 25 % till 47,14 miljoner dollar.\n\nVolymen för Bitcoin NFT:er mer än fördubblades, medan Ethereum behöll sin ledande position.\n\nKan NFT:er vara på väg att göra en ny comeback?",
         "method": "translation",
@@ -1944,7 +1979,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "BlackRock avyttrar återigen kryptovalutor.\n\n71,8 miljoner dollar i Bitcoin och 69,7 miljoner dollar i Ethereum.\n\nDet motsvarar 141,5 miljoner dollar i totala utflöden från ETF-fonder.",
         "method": "translation",
@@ -1986,7 +2021,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "De amerikanska börshandlade fonderna (ETFer) som investerar direkt i Bitcoin och Ethereum noterade tillsammans ett nettouttag på 152,07 miljoner dollar igår.\n\nBitcoin-börshandlade fonder (ETFer): -82,39 miljoner dollar.\nEthereum-börshandlade fonder (ETFer): -69,68 miljoner dollar.\n\nInte en enda ETF uppvisade nettotillflöden.",
         "method": "translation",
@@ -2095,7 +2130,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin visar just nu ett fallande triangelmönster!\n\nÄven om detta mönster traditionellt sett indikerar en nedåtgående trend, utlöser det ofta kraftiga och positiva kursrörelser.\n\nKan stödnivån på 81 000 dollar hålla?",
         "method": "translation",
@@ -2130,7 +2165,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Kan någon \"växa sig ur\" ett årligt underskott på 2 biljoner dollar?\n\nJag tror inte det. Det är därför vi använder Bitcoin.",
         "method": "translation",
@@ -2165,7 +2200,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Michael Saylor: \"Inflationen är värre än du tror, och Bitcoin är bättre än du vet.\"",
         "method": "translation",
@@ -2205,7 +2240,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "VD:n för CryptoQuant avvisar Mikes McGlones uttalande om att Bitcoin kommer att nå 10 000 dollar.\n\n• En kostnadsbas på 30 000 dollar, som understöds av inflöden på 58 miljarder dollar till en börshandlad fond (ETF) och 1,3 miljoner BTC i företagets tillgångar.\n\n• 10 000 dollar antyder en mvrv på 0,2, vilket är lägre än nivån 0,6 som registrerades 2019.",
         "method": "translation",
@@ -2240,7 +2275,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin till en prisnivå på 200 000 dollar skulle vara en milstolpe som skulle förändra allt.\n\nFöreställ dig hur många människor som kommer att önska att de hade tagit Bitcoin på allvar tidigare.\n\nVem är redo att se att BTC når 200 000 dollar?",
         "method": "translation",
@@ -2275,7 +2310,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Varför är inflationsdata viktig för Bitcoin?\n\nHögre inflation kan öka trycket på räntor, utgifter och flödet av kapital till riskfyllda tillgångar.\n\nHär är hur en ekonomisk rapport kan påverka den övergripande bilden för BTC.",
         "method": "translation",
@@ -2342,7 +2377,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Charles Schwab säger att #Bitcoin har starka fundamentala egenskaper inför framtiden, och att framsteg inom regleringen bör gynna marknaden.",
         "method": "translation",
@@ -2413,7 +2448,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin behöver inte nödvändigtvis testa det rörliga genomsnittet för 50 veckor för att det ska vara relevant.\n\nHistoriskt sett har området kring denna nivå varit en stark zon för ansamling av köp när en nedgångsmarknad övergår till en uppgångsmarknad.\n\nSkulle du vänta på en ny testning eller bevaka om priset skulle stiga över den nivån?\n\nTitta på.",
         "method": "translation",
@@ -2450,7 +2485,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Circle riktar in sig på 50 tillväxtmarknader med en expansion av Tazapay på 400 miljoner dollar.\n\nCircle accelererar sin internationella satsning på användningen av USD-digitala valutor i Sydostasien, Latinamerika och Mellanöstern, och utnyttjar förvärvet av Tazapay för 400 miljoner dollar för att utveckla den digitala infrastrukturen för USD-valutor.",
         "method": "translation",
@@ -2553,7 +2588,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Charles Schwab säger att Bitcoin har \"starka grunder för framtiden.\"\n\n\"Förhoppningsvis kommer framsteg inom regelverket att gynna marknaden.\"",
         "method": "translation",
@@ -2665,7 +2700,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Cobo Wallet-appen kommer att stängas ner i december.\n\n• Ta ut dina Bitcoin senast den 30 november för att undvika en minimiavgift på 100 dollar per månad.\n\n• Tjänsterna för institutionsbaserad förvaring är fortfarande fullt aktiva.",
         "method": "translation",
@@ -2693,7 +2728,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "PumpFun lanserar handel med kryptovalutor genom eviga futureskontrakt, vilket möjliggörs av Hyperliquid och dess $hype-teknologi.",
         "method": "translation",
@@ -2767,7 +2802,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Cantor Fitzgerald (18 miljarder dollar) höjer sin prognos för Bitcoin till 112 000 dollar från 98 000 dollar för de kommande 12 månaderna.",
         "method": "translation",
@@ -2795,7 +2830,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Tysklands största bank, Deutsche Bank, kommer att lansera tjänster för förvaring av kryptovalutor.",
         "method": "translation",
@@ -2830,7 +2865,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Enorm skillnad på marknaderna!\n\nS&P 500 ligger 1 % under sina tidigare toppnivåer, men 206 aktier har fortfarande sjunkit med 30 % eller mer – enligt Kobeissi Letter.\n\nKommer Bitcoin att behålla stödnivån på 80 000 dollar?",
         "method": "translation",
@@ -2866,7 +2901,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin-börshandlade fonder (ETFer) handlades för över 7,5 miljarder dollar denna vecka fram till och med torsdagen.\n\nHälsosamma volymer kvarstår trots en nettoförsäljning på 145 miljoner dollar hittills.",
         "method": "translation",
@@ -2894,7 +2929,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Japans tre största banker har framgångsrikt genomfört sitt första internationella test av betalningar med en kryptovaluta som är kopplad till en stabil tillgång.",
         "method": "translation",
@@ -3057,7 +3092,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Visa lanserar officiellt betalningar med stablecoin via Visa Direct, vilket möjliggör snabba, globala utbetalningar med hjälp av $USDC i över 180 länder.",
         "method": "translation",
@@ -3096,7 +3131,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Det stora finansbolaget Charles Schwab, med ett värde på 13 biljoner dollar, meddelar att möjligheten att handla Bitcoin direkt nu är fullt tillgänglig för dess 40 miljoner kunder.\n\nFörväntade inkommande BTC-överföringar senast vid årets slut.",
         "method": "translation",
@@ -3239,7 +3274,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "13 biljoner dollar: Charles Schwab lanserar fullt ut handel med Bitcoin och Ethereum för sina 40 miljoner berättigade privatkunder.",
         "method": "translation",
@@ -3585,7 +3620,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Stress relaterad till kryptovalutor kan sänka testosteronnivåerna.\n\nJag förstår er!",
         "method": "translation",
@@ -4296,7 +4331,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "OpenAI säger att dess AI-agent stulit medel från en Ethereum-testnätverksplånbok som den hittade online.\n\nAgenten hittade en återställningsfras som hade publicerats och som innehöll testnätverksmedel, och använde det kontot för att betala för sin uppgift, utan ägarens tillstånd.\n\nDetta inträffade den.",
         "method": "translation",
@@ -4331,7 +4366,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Decentraliserad valuta är avgörande för alla i Amerika – Peter Van Valkenburgh, Coin Center.\n\nIbland behöver vi bara bli påminda om hur viktig Bitcoin är.",
         "method": "translation",
@@ -4366,7 +4401,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "För 13 år sedan idag: Washington Post ifrågasatte om ett pris på 140 dollar för en Bitcoin var motiverat.",
         "method": "translation",
@@ -4401,7 +4436,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin utgör fortfarande bara 0,2 % av de globala tillgångarna.\n\nFördelarna är enorma!",
         "method": "translation",
@@ -4441,7 +4476,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Påminnelse: Thailand öppnar upp för spot-baserade Bitcoin-börshandlade fonder (ETFer) för 5 miljoner potentiella privatpersoner denna fredag.",
         "method": "translation",
@@ -4476,7 +4511,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "57 % av företagen som ingår i S&P 500-indexet är nu mer volatila än Bitcoin – enligt Grayscale Research.",
         "method": "translation",
@@ -4511,7 +4546,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Fidelity Digital säger att Bitcoin nu följer utvecklingen för amerikanska statsobligationer, vilket troligen beror på oro kring den ekonomiska stabiliteten.\n\nStår Bitcoin inför sin första riktiga globala recession och en situation med brist på likviditet?",
         "method": "translation",
@@ -4546,7 +4581,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin steg från 58 000 dollar till 82 000 dollar, en ökning med 43 %.\n\n...och detaljhandeln har ännu inte ens börjat visa resultat.",
         "method": "translation",
@@ -4866,7 +4901,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Binance-US planerar att samla in 100 miljoner dollar vid en värdering av 1 miljard dollar i en privat investeringsrunda – Bloomberg.\n\nFinns det någon efterfrågan för det? Vi får se.",
         "method": "translation",
@@ -4901,7 +4936,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "För 15 år sedan kostade 1 Bitcoin bara 3,86 dollar.",
         "method": "translation",
@@ -4977,7 +5012,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Rysslands centralbank förbjuder överföringar av Bitcoin från reglerade konton till privata digitala plånböcker.",
         "method": "translation",
@@ -5007,7 +5042,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Elon Musk säger att SpaceX kan nå en marknadsvärdering på 100 biljoner dollar inom loppet av 10 år.\n\nVad skulle 1 BTC kosta om detta inträffar?",
         "method": "translation",
@@ -5112,7 +5147,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "En felaktig rapport om blockkedjeteknik ledde till att 89,6 Bitcoin felaktigt beslagtog i Storbritannien.\n\n• En analys från 2022 pekade på en adress som var kopplad till en bedrägeri.\n\n• htx-börsen tvingades att lämna över mynten.",
         "method": "translation",
@@ -5639,7 +5674,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Mastercard, med tickern $MA, lanserar en plattform som möjliggör betalningar med kryptovalutor av typen \"stablecoin\" hos hundratals miljoner återförsäljare över hela världen.",
         "method": "translation",
@@ -6112,7 +6147,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin faller under 81 000 dollar och ETH under 2 400 dollar.\n\nFör 350 miljoner dollar i kryptovalutor har långpositioner avvecklats under de senaste 10 minuterna.",
         "method": "translation",
@@ -6500,7 +6535,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Digital Credit, som drivs av Bitcoin. Vår mest seniora föredragningsaktie, \"$strf\" (\"Strife\"), förklarad på tre minuter.",
         "method": "translation",
@@ -7036,7 +7071,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Peter Schiff säger: ”Sälj dina Bitcoin innan marknaden rasar och köp guld.”",
         "method": "translation",
@@ -7752,7 +7787,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Interpol griper Richard Heart, grundare av kryptoprojekten HEX och PulseChain, i Turkiet.",
         "method": "translation",
@@ -8517,7 +8552,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Standard Chartered lanserar handel med Bitcoin och Ethereum direkt via bankkonton för kunder i Förenade arabemiraten som uppfyller kraven.",
         "method": "translation",
@@ -8613,7 +8648,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Frankrike överväger en skatt på 31,4 procent vid växling från kryptovaluta till värdestabil kryptovaluta.",
         "method": "translation",
@@ -9401,7 +9436,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Senator Elizabeth Warren har upprepade gånger sagt att kryptovalutor används för penningtvätt och för att kringgå sanktioner.\n\nI dag bötfällde USA:s regering Bank of America med 1,2 miljarder dollar för brott mot penningtvättsregler och sanktionslagar.",
         "method": "translation",
@@ -9587,7 +9622,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Citadel Securities och BNY genomför sin första blockkedjebaserade transaktion med tokeniserade amerikanska statsobligationer.",
         "method": "translation",
@@ -9681,7 +9716,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Michael Saylor säger att Bitcoin befinner sig i början av en uppgångsmarknad.",
         "method": "translation",
@@ -10412,7 +10447,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoins framtid är finansvärldens framtid.\n\nI morse på Världsbanken deltog jag i ett 25 minuter långt samtal under DC Fintech Week med Chris Brummer, grundare och vd för The Fintech Foundation. @fintechthinksdc\n\n00:52 – Strategy som en reservinstitution byggd på digital …",
         "method": "translation",
@@ -10539,7 +10574,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Wells Fargos vd säger att banken förbereder sig för möjliga affärsmöjligheter med värdestabila kryptovalutor i USA.",
         "method": "translation",
@@ -10802,7 +10837,7 @@
         "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%"
       },
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Strive omvandlar efterfrågan på digitala aktier (ASST) och digital kredit (SATA) till efterfrågan på Bitcoin. Bolagets mycket snabba tillväxt visar hur kapitalmarknaderna påskyndar användningen av Bitcoin.",
         "method": "translation",
@@ -11054,7 +11089,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "WatcherGuru rapporterar att Strive, Vivek Ramaswamys bolag, har köpt 3 311 bitcoin för 275 miljoner dollar.",
         "method": "translation",
@@ -11393,7 +11428,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Det är oerhört tråkigt att @YouTube ännu en gång har stängt av ett kryptokonto!\n\nDet var den värsta upplevelsen i mitt liv, men jag hade tur: de förstod sitt misstag och återställde min kanal inom 24 timmar.\n\nHåll ut, min vän, och lycka till med ditt nya …",
         "method": "translation",
@@ -11454,7 +11489,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "En brittisk domstol hindrar kinesiska bedrägerioffer från att få tillbaka beslagtagna bitcoin värda 5 miljarder dollar. Det innebär enligt inlägget sannolikt att den brittiska regeringen får behålla dem.",
         "method": "translation",
@@ -12496,7 +12531,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin faller under 82 000 dollar.\n\nLånga kryptopositioner värda 120 000 000 dollar har tvångsstängts under de senaste 15 minuterna.",
         "method": "translation",
@@ -13049,7 +13084,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Nasdaqs vd säger att tokenisering skulle kunna frigöra tiotals miljarder dollar i det globala finanssystemet.",
         "method": "translation",
@@ -13279,7 +13314,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Moskvabörsen i Ryssland ska börja erbjuda handel i Bitcoin, Ethereum och USDT den 1 december.",
         "method": "translation",
@@ -13756,7 +13791,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Morgan Stanley säger att marknaden för tokeniserade tillgångar kommer att vara värd 3–10 biljoner dollar år 2030.",
         "method": "translation",
@@ -14065,7 +14100,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Tom Lees BitMine köper 12 532 ETH för 31 miljoner dollar.",
         "method": "translation",
@@ -14230,7 +14265,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Standard Chartered uppges ha lanserat förvaringstjänster för Ripples värdestabila kryptovaluta RLUSD på XRP Ledger.",
         "method": "translation",
@@ -14364,7 +14399,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Det finns alltför många tecken på att helgens Bitcoinuppgång sannolikt är en fälla.\n\nJag sänder direkt på @TheMoonShow om en timme för att diskutera varför.",
         "method": "translation",
@@ -14551,7 +14586,7 @@
         "url": "https://bitcoinmagazine.com/news/strategy-smash-buys-21-5m-in-bitcoin",
         "title": "Strategy Smash Buys $21.5M in BTC as It Continues Bitcoin Accumulation"
       },
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Strategy har köpt 250 BTC och återköpt STRC för 192 miljoner dollar. Den 11 oktober 2026 ägde vi 848 250 BTC och dollartillgångar värda 5,5 miljarder dollar. MSTR.",
         "method": "translation",
@@ -14653,7 +14688,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Michael Saylors Strategy köper 250 Bitcoin för 21 miljoner dollar.",
         "method": "translation",
@@ -14682,7 +14717,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Strategy har köpt 250 BTC!",
         "method": "translation",
@@ -15519,7 +15554,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin stängde veckan över nivån!\n\nGanska goda nyheter, men ännu ingen bekräftelse på en uppgång.\n\nKursmålet på 102 000 dollar gäller bara om vi får en veckostängning över 87 200 dollar med stöd av handelsvolymen.",
         "method": "translation",
@@ -15951,7 +15986,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin: veckans handelsperiod stänger om åtta timmar!",
         "method": "translation",
@@ -16187,7 +16222,7 @@
         "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks",
         "title": "Saylor teases Strategy Bitcoin buying"
       },
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Det finns alltid plats för mer orange.",
         "method": "translation",
@@ -16313,7 +16348,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "När Bitcoin faller, träna musklerna!",
         "method": "translation",
@@ -16427,7 +16462,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin: nu får det vara nog.",
         "method": "translation",
@@ -16524,7 +16559,7 @@
       "verified": false,
       "discoveredVia": "x-embed",
       "contextSource": null,
-      "archivedAt": "2026-10-19T08:05:49.160688Z",
+      "archivedAt": "2026-10-19T08:45:22.972269Z",
       "swedish": {
         "text": "Bitcoin: veckans kursstapel blir avgörande!",
         "method": "translation",
@@ -16536,7 +16571,7 @@
   "language": {
     "original": 0,
     "reviewed": 290,
-    "automatic": 193,
-    "pending": 11
+    "automatic": 194,
+    "pending": 12
   }
 }
