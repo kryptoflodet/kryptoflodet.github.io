@@ -937,6 +937,129 @@
           "url": "https://discuss.ens.domains/t/ens-dao-newsletter-10-15-2026/22494"
         }
       ]
+    },
+    {
+      "id": "2026-10-25",
+      "title": "Kryptoveckan: USA fastställer stablecoinregler och Ethereum bromsar testnätsplanen",
+      "dek": "USA tog ett konkret steg mot nya regler för betalningsstablecoins, samtidigt som stablecoininfrastruktur kopplades närmare vanliga bankkonton och mobila plånböcker. Veckan bjöd också på ett nytt bitcoinbesked från Strategy, ett stort återkrav efter kryptobedrägeri och en teknisk försening för Ethereum.",
+      "publishedAt": "2026-10-25T20:03:56+01:00",
+      "period": "19–25 oktober 2026",
+      "readingMinutes": 5,
+      "takeaways": [
+        "USA:s slutliga GENIUS-regler sätter krav på bland annat reserver, inlösen, riskhantering och tillsyn från januari 2027.",
+        "Strategy rapporterade ytterligare 267 bitcoin, medan Coinbase och Thunes beskrev ny infrastruktur för gränsöverskridande stablecoinbetalningar.",
+        "NovaTech-uppgörelsen och Ethereums uppskjutna Hoodi-test visar varför både motpartsrisk och tekniskt genomförande måste granskas."
+      ],
+      "sections": [
+        {
+          "heading": "Veckan i korthet",
+          "paragraphs": [
+            "Veckans urval täcker måndagen den 19 oktober till söndagens publicering. Tyngdpunkten ligger på verifierade besked från myndigheter, företag och protokollutvecklare. Gemensamt för dem är att detaljer om ikraftträdande, villkor och genomförande betyder mer än den första rubriken."
+          ],
+          "sourceIds": [
+            "occ",
+            "strategy",
+            "coinbase-thunes",
+            "nyag",
+            "ethereum"
+          ]
+        },
+        {
+          "heading": "USA fastställde regler för betalningsstablecoins",
+          "paragraphs": [
+            "Den amerikanska bankmyndigheten OCC publicerade den 21 oktober en slutlig regel för att genomföra GENIUS Act. Reglerna gäller betalningsstablecoins, alltså digitala token som ska hålla ett stabilt värde mot en valuta och användas för betalningar. De omfattar bland annat reservtillgångar, inlösen, riskhantering, revision, rapportering, tillsyn, förvaring och ansökningar för godkända utgivare.",
+            "Regelverket träder i kraft den 18 januari 2027. Det berör bland annat vissa banker, sparinstitut, federalt godkända icke-banker och utländska stablecoinutgivare inom OCC:s område. Delar om penningtvätt, banksekretess och sanktioner ingår inte i denna regel utan ska hanteras separat tillsammans med USA:s finansdepartement.",
+            "Det viktiga är att skilja ett fastställt ramverk från ett omedelbart godkännande av varje stablecoin. En utgivare måste fortfarande omfattas av rätt tillstånd och löpande tillsyn. För marknaden ger beskedet tydligare krav på hur reserver och inlösen ska hanteras, men det gör inte alla stablecoins likvärdiga eller riskfria."
+          ],
+          "sourceIds": [
+            "occ"
+          ]
+        },
+        {
+          "heading": "Strategy rapporterade köp av 267 bitcoin",
+          "paragraphs": [
+            "Strategy redovisade den 19 oktober att bolaget köpt 267 bitcoin för 22,1 miljoner dollar under perioden 12–18 oktober. Det angivna genomsnittspriset var 82 900 dollar per bitcoin inklusive avgifter. Köpet finansierades med 22 miljoner dollar från försäljning av vanliga MSTR-aktier och 0,1 miljoner dollar från bolagets kassa.",
+            "Bolaget återköpte samtidigt cirka 1,94 miljoner preferensaktier av typen STRC för 193,1 miljoner dollar och höjde ramen för återköp av sina så kallade digitala kreditvärdepapper från två till tre miljarder dollar. Ett återköp av egna värdepapper är en annan kapitalåtgärd än ett köp av bitcoin, även när båda redovisas i samma rapport.",
+            "Beskedet visar hur Strategys bitcoininnehav hänger samman med aktieförsäljningar, kassareserver, utdelningar och återköp. Antalet köpta bitcoin säger därför inte ensamt hur bolagets totala finansiella risk förändras. Rapporten beskriver genomförda transaktioner; den är ingen prognos för nästa köp eller för bitcoinpriset."
+          ],
+          "sourceIds": [
+            "strategy"
+          ]
+        },
+        {
+          "heading": "Coinbase och Thunes kopplar stablecoins till lokala utbetalningar",
+          "paragraphs": [
+            "Coinbase meddelade den 19 oktober ett samarbete med betalningsföretaget Thunes. Enligt bolagen ska Coinbase stå för stablecoininfrastrukturen, medan Thunes ska ge tillgång till lokala utbetalningar till bankkonton och mobila plånböcker. De pekar ut leverantörsbetalningar, ersättning till gigarbetare och internationella överföringar som tänkta användningsområden.",
+            "Samarbetet försöker lösa ett praktiskt problem: en digital dollar kan flyttas på en blockkedja, men mottagaren behöver ofta pengarna i ett lokalt betalningssystem. Kopplingen mellan stablecoinöverföringen och den sista utbetalningen kan därför vara lika viktig som själva blockkedjetransaktionen.",
+            "Detta är ett företagsbesked om infrastruktur och avsedda användningsfall. Källan redovisar inte i beskedet hur stora betalningsvolymer som redan går genom lösningen, vilka marknader som får tjänsten först eller den fullständiga kostnaden för användaren. Betydelsen får bedömas när faktisk tillgänglighet och användning går att följa."
+          ],
+          "sourceIds": [
+            "coinbase-thunes"
+          ]
+        },
+        {
+          "heading": "Närmare sex miljoner dollar återkrävs efter kryptobedrägeri",
+          "paragraphs": [
+            "New Yorks åklagarmyndighet meddelade den 22 oktober uppgörelser på sammanlagt närmare sex miljoner dollar med fyra ledande marknadsförare för AWS Mining och NovaTech. Pengarna ska återföras till drabbade, och de fyra förbjuds permanent från verksamhet inom värdepapper, råvaror och krypto. Myndigheten uppger att fler än 11 000 personer i New York deltog och förlorade tiotals miljoner dollar.",
+            "Enligt myndigheten användes sociala medier, WhatsApp-grupper och religiösa nätverk för löften om höga och säkra avkastningar. Investerare satte in krypto värt mer än en miljard dollar i NovaTech mellan augusti 2019 och april 2023, medan mindre än 26 miljoner dollar enligt utredningen faktiskt handlades på plattformen.",
+            "Åklagaren begär dessutom att domstolen ska besluta om 1,3 miljarder dollar i skadestånd och återbetalning från grundarna. Det beloppet är alltså ett yrkande, inte en redan säkrad utbetalning. Händelsen visar hur rekryteringsbonusar, garanterade vinster och grupptryck kan vara tydliga varningssignaler även när insättningarna sker i etablerade kryptovalutor."
+          ],
+          "sourceIds": [
+            "nyag"
+          ]
+        },
+        {
+          "heading": "Ethereum sköt upp Glamsterdam på testnätet Hoodi",
+          "paragraphs": [
+            "Ethereum Foundation meddelade den 22 oktober att den planerade aktiveringen av uppgraderingen Glamsterdam på testnätet Hoodi skjuts upp. Aktiveringen var satt till den 26 oktober, men något nytt datum har inte bestämts. Utvecklarna vill undersöka hur EIP-8037 samverkar med smarta kontrakt på huvudnätet.",
+            "Förseningen tar bort den tidigare schemalagda aktiveringen av Amsterdam på exekveringslagret och Gloas på konsensuslagret. Även den planerade höjningen av Hoodis gasgräns till 200 miljoner tas bort ur den gamla konfigurationen. Gasgränsen anger förenklat hur mycket beräkningsarbete som får rymmas i ett block.",
+            "Detta gäller ett testnät. Ingen åtgärd krävs av vanliga användare eller ETH-innehavare, och beskedet fastställer inget datum för Glamsterdam på huvudnätet. Förseningen är ändå relevant eftersom testnätet ska fånga problem innan en större förändring når riktiga tillgångar. Att bromsa testningen är därför information om utvecklingsläget, inte ett fel på Ethereums nuvarande huvudnät."
+          ],
+          "sourceIds": [
+            "ethereum"
+          ]
+        },
+        {
+          "heading": "Det här är värt att följa",
+          "paragraphs": [
+            "Nästa vecka blir det viktigt att följa hur OCC:s ansökningsprocess konkretiseras, om Coinbase och Thunes anger marknader och faktisk användning samt när Ethereum presenterar en ny Hoodi-plan. För Strategy är finansieringen och kassaflödena fortsatt lika viktiga som antalet nyinköpta bitcoin.",
+            "Veckans besked ger inga säkra slutsatser om kommande priser. De visar däremot hur regler, betalningsinfrastruktur, bolagsfinansiering och teknisk testning påverkar kryptomarknaden på olika sätt."
+          ],
+          "sourceIds": [
+            "occ",
+            "strategy",
+            "coinbase-thunes",
+            "ethereum"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "occ",
+          "name": "OCC – slutlig regel för GENIUS Act, 21 oktober 2026",
+          "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy – Form 8-K om bitcoin och kapitalåtgärder, 19 oktober 2026",
+          "url": "https://www.strategy.com/press/strategy-repurchases-193-million-of-strc-acquires-267-btc-and-increases-digital-credit-securities-repurchase-program-to-3-billion_10-19-2026"
+        },
+        {
+          "id": "coinbase-thunes",
+          "name": "Coinbase – samarbete med Thunes, 19 oktober 2026",
+          "url": "https://www.coinbase.com/blog/coinbase-and-thunes-connect-stablecoin-infrastructure"
+        },
+        {
+          "id": "nyag",
+          "name": "New York Attorney General – uppgörelser efter NovaTech och AWS Mining, 22 oktober 2026",
+          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-secures-nearly-6-million-crypto-scammers-who-targeted"
+        },
+        {
+          "id": "ethereum",
+          "name": "Ethereum Foundation – Glamsterdam på Hoodi skjuts upp, 22 oktober 2026",
+          "url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay"
+        }
+      ]
     }
   ]
 }
