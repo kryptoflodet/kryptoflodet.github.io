@@ -1,16 +1,16 @@
 {
-  "checkedAt": "2026-11-01T09:06:12.814771Z",
+  "checkedAt": "2026-11-01T09:47:28.879031Z",
   "sourcesConnected": 26,
   "sourcesTotal": 29,
-  "candidates": 225,
+  "candidates": 226,
   "published": 28,
-  "held": 225,
+  "held": 226,
   "heldReasons": {
-    "insufficient_source": 188,
-    "awaiting_editorial_review": 37
+    "awaiting_editorial_review": 37,
+    "insufficient_source": 189
   },
   "editorAttempts": 0,
   "paidApis": false,
   "editorMode": "reviewed-only",
-  "awaitingReview": 225
+  "awaitingReview": 226
 }
