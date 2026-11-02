@@ -1060,6 +1060,136 @@
           "url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay"
         }
       ]
+    },
+    {
+      "id": "2026-11-01",
+      "title": "Kryptoveckan: miljardresultat, USDC och nya handelsvillkor på Kraken",
+      "dek": "Strategy och Coinbase visade hur olika verksamheter inom krypto tjänar pengar, medan Kraken aviserade ändringar för 176 handelspar. Samtidigt beskrev Circle hur bolaget vill att amerikanska regler ska behandla stablecoins.",
+      "publishedAt": "2026-11-02T23:10:46+01:00",
+      "period": "26 oktober–1 november 2026",
+      "readingMinutes": 5,
+      "takeaways": [
+        "Strategys redovisade värdeökning och Coinbase resultat behöver läsas tillsammans med hur bolagens verksamheter och kapitalflöden fungerar.",
+        "Krakens ändring gäller handelspar och orderhantering. Befintliga order följer inte automatiskt med till ersättningsparen.",
+        "Circles remissvar är ett partsinlägg om föreslagna regler, inte ett nytt myndighetsbeslut."
+      ],
+      "sections": [
+        {
+          "heading": "Veckan i korthet",
+          "paragraphs": [
+            "Den här utgåvan sammanfattar ett urval av kryptohändelser från måndagen den 26 oktober till söndagen den 1 november och publiceras i efterhand den 2 november. Fokus ligger på bolagsrapporter, handelsvillkor och regelutveckling. Originalkällorna gör det möjligt att skilja mellan redovisade resultat, planerade förändringar och företagens egna önskemål om framtida regler."
+          ],
+          "sourceIds": [
+            "strategy-q3",
+            "coinbase-q3",
+            "kraken-migration",
+            "circle"
+          ]
+        },
+        {
+          "heading": "Strategy redovisade en stor värdeökning på digitala tillgångar",
+          "paragraphs": [
+            "Strategy presenterade sin rapport för tredje kvartalet den 29 oktober. Rörelseresultatet uppgick till 20,91 miljarder dollar och inkluderade en lika stor redovisad värdeökning på digitala tillgångar. Bolaget uppgav ett innehav på 848 517 bitcoin per den 25 oktober. Resultatet gäller kvartalet som avslutades den 30 september, medan uppgiften om bitcoininnehavet avser ett senare datum.",
+            "En redovisad värdeökning ska inte likställas med att motsvarande belopp har betalats in till bolagets kassa. Därför behöver resultatet läsas tillsammans med finansiering, kontanta tillgångar och betalningsåtaganden. Vår bedömning är att den skillnaden är central för att förstå ett bolag vars balansräkning domineras av bitcoin.",
+            "I en separat rapport den 26 oktober uppgav Strategy att bolaget varken köpt eller sålt bitcoin under perioden 19–25 oktober. Däremot användes 204,9 miljoner dollar ur den del av kassan som bolaget kallar USD Cash till återköp av STRC-preferensaktier. Veckans rapportering visar därmed både bitcoinexponeringen och arbetet med företagets egna värdepapper."
+          ],
+          "sourceIds": [
+            "strategy-q3",
+            "strategy-weekly"
+          ]
+        },
+        {
+          "heading": "Coinbase rapporterade större USDC-innehav och flera intäktskällor",
+          "paragraphs": [
+            "Coinbase offentliggjorde sin kvartalsrapport den 29 oktober. Bolaget redovisade ett nettoresultat på 719 miljoner dollar och ett justerat nettoresultat på 78 miljoner dollar. Det senare är ett kompletterande resultatmått med justeringar jämfört med den ordinarie redovisningen. Siffrorna beskriver därför olika saker och bör inte blandas ihop.",
+            "Enligt Coinbase uppgick det genomsnittliga USDC-innehavet i bolagets produkter till 22 miljarder dollar under kvartalet. Abonnemang och tjänster stod för 49 procent av nettointäkterna. Uppgiften om USDC avser ett genomsnittligt innehav, inte nya insättningar under den gångna veckan.",
+            "Rapporten ger en bild av hur en kryptobörs bygger verksamhet kring fler områden än enbart direkt handel i kryptovalutor. Det är bolagets egen redovisning och bedömning av utvecklingen. Den säger inte ensam hur efterfrågan på hela kryptomarknaden förändrades under veckan eller hur en viss kryptovaluta kommer att utvecklas."
+          ],
+          "sourceIds": [
+            "coinbase-q3"
+          ]
+        },
+        {
+          "heading": "Kraken ändrar 176 handelspar – öppna order förs inte över",
+          "paragraphs": [
+            "Kraken informerade under veckan om att 176 befintliga handelspar ska ersättas med syntetiska handelspar. Tillgångarna ska finnas kvar på plattformen och kundernas saldon påverkas enligt beskedet inte av bytet. Från den 6 november klockan 15.00 svensk tid får berörda order endast annulleras. Återstående order ska sedan tas bort och ersättningsparen listas senast vid slutet av den 9 november.",
+            "Ett syntetiskt handelspar använder två underliggande marknader med en gemensam valuta för att genomföra växlingen. Kunden ser en sammanhållen affär. Enligt Krakens beskrivning betalar kunden en enda avgift av samma typ som för marknadsorder, även vid limitorder. En limitorder anger vilket pris kunden accepterar. Orderna kan inte heller delvis genomföras i den syntetiska modellen.",
+            "Den praktiska följden är att befintliga order inte flyttas över automatiskt. Den som berörs behöver kontrollera Krakens lista och de nya villkoren. Ett större antal tillgängliga kombinationer innebär inte i sig att varje handelspar får lägre kostnad eller bättre pris; även de underliggande marknadernas köp- och säljpriser spelar roll."
+          ],
+          "sourceIds": [
+            "kraken-migration",
+            "kraken-synthetic"
+          ]
+        },
+        {
+          "heading": "Circle vill förtydliga stablecoins roll i amerikanska kryptoregler",
+          "paragraphs": [
+            "Circle publicerade den 28 oktober en genomgång av sitt remissvar om SEC:s förslag Regulation Crypto Assets. Själva svaret lämnades den 20 oktober. Det nya under veckan var alltså bolagets publicerade genomgång, inte att SEC fattade ett nytt beslut. Stablecoins är kryptotillgångar som är tänkta att följa värdet på exempelvis en vanlig valuta.",
+            "Circle efterfrågar bland annat tydligare behandling av godkända betalningsstablecoins vid kapitalanskaffning och avveckling av affärer på blockkedjor. Bolaget vill också att reglerna samordnas med GENIUS Act. Det är önskemål från en aktör med egna intressen i hur marknaden regleras.",
+            "SEC:s förslag gäller vissa erbjudanden och investeringsavtal som rör kryptotillgångar och innehåller särskilda undantag från registreringskraven. Reglernas slutliga utformning är en annan fråga än vad Circle förespråkar. För läsaren är det viktigt att hålla isär myndighetens förslag, remissinstansernas argument och beslut som faktiskt har börjat gälla."
+          ],
+          "sourceIds": [
+            "circle",
+            "circle-letter",
+            "sec-proposal"
+          ]
+        },
+        {
+          "heading": "Det här är värt att följa",
+          "paragraphs": [
+            "Det närmaste konkreta datumet i urvalet är Krakens omläggning från den 6 november. Där går det att följa om ersättningsparen öppnas enligt planen och vilka villkor som gäller för respektive par.",
+            "För bolagsrapporterna är nästa steg att följa hur redovisade resultat hänger ihop med kassaflöden, kapitalanvändning och faktisk efterfrågan. I regeldebatten blir kommande myndighetsbesked mer avgörande än enskilda företags önskemål. Vår sammanvägda bedömning är att veckans material framför allt förklarar hur kryptomarknadens företag och tjänster fungerar; det ger ingen säker prognos för nästa kursrörelse."
+          ],
+          "sourceIds": [
+            "kraken-migration",
+            "strategy-q3",
+            "coinbase-q3",
+            "sec-proposal"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "strategy-q3",
+          "name": "Strategy – kvartalsrapport, 29 oktober 2026",
+          "url": "https://www.strategy.com/press/strategy-announces-third-quarter-2026-financial-results_10-29-2026"
+        },
+        {
+          "id": "strategy-weekly",
+          "name": "Strategy – Form 8-K om bitcoin och återköp, 26 oktober 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/mstr-20261026.htm"
+        },
+        {
+          "id": "coinbase-q3",
+          "name": "Coinbase – kvartalsrapport, 29 oktober 2026",
+          "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q3-2026-Earnings-Show-All-time-high-Coinbase-One-Subscribers-and-Prediction-Markets-Surpassing-200-Million-in-Annualized-Revenue/default.aspx"
+        },
+        {
+          "id": "kraken-migration",
+          "name": "Kraken – ändring av handelspar, uppdaterat 26 oktober 2026",
+          "url": "https://support.kraken.com/articles/native-pairs-moving-to-sythetic-pairs"
+        },
+        {
+          "id": "kraken-synthetic",
+          "name": "Kraken – syntetiska handelspar, uppdaterat 30 oktober 2026",
+          "url": "https://support.kraken.com/articles/synthetic-pairs"
+        },
+        {
+          "id": "circle",
+          "name": "Circle – publicerad genomgång av remissvaret, 28 oktober 2026",
+          "url": "https://www.circle.com/blog/circle-submits-comment-letter-on-secs-proposed-regulation-crypto-assets"
+        },
+        {
+          "id": "circle-letter",
+          "name": "Circle – remissvar till SEC, 20 oktober 2026",
+          "url": "https://www.sec.gov/comments/S7-2026-27/s7202627-1110319-3937607.pdf"
+        },
+        {
+          "id": "sec-proposal",
+          "name": "SEC – förslaget Regulation Crypto Assets, augusti 2026",
+          "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27"
+        }
+      ]
     }
   ]
 }
