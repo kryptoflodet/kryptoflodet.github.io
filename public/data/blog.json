@@ -1190,6 +1190,155 @@
           "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27"
         }
       ]
+    },
+    {
+      "id": "2026-11-08",
+      "title": "Kryptoveckan: SEC-besked om Canton, tokeniserad aktiehandel och press på bitcoin",
+      "dek": "Amerikanska myndighetsbesked gav nya gränsdragningar för kryptotillgångar och en tokeniserad börsaktie började handlas under ett tillfälligt undantag. Samtidigt redovisade Circle större aktivitet kring USDC, medan Ethereum-utvecklare varnade för möjliga följder av en kommande uppgradering.",
+      "publishedAt": "2026-11-08T20:05:50+01:00",
+      "period": "2–8 november 2026",
+      "readingMinutes": 6,
+      "takeaways": [
+        "SEC-personalens besked om Canton Coin är begränsat till de beskrivna omständigheterna och är inte ett generellt godkännande av alla kryptotillgångar.",
+        "Den första handeln med tokeniserade CNTN-aktier skedde i en tillståndsstyrd miljö där deltagarna kontrolleras och aktiernas rättigheter ska motsvara vanliga aktiers.",
+        "Bitcoin rörde sig kraftigt under veckan, medan Circles rapport och Ethereums tester visade utvecklingen bakom stablecoins och nätverksuppgraderingar."
+      ],
+      "sections": [
+        {
+          "heading": "Veckan i korthet",
+          "paragraphs": [
+            "Veckan den 2–8 november innehöll flera händelser som visar hur kryptomarknaden växer ihop med reglerade finansmarknader. SEC:s personal förtydligade sin syn på vissa kryptonätverk, och en amerikansk börsaktie handlades i tokeniserad form under ett tillfälligt undantag. Circle rapporterade samtidigt större aktivitet i USDC, Ethereum-utvecklare bad projekt att granska en kommande uppgradering och bitcoin föll efter en tydlig svängning under veckan."
+          ],
+          "sourceIds": [
+            "sec-faq",
+            "sec-canton",
+            "tsv",
+            "circle-q3",
+            "ethereum",
+            "coinbase-market"
+          ]
+        },
+        {
+          "heading": "SEC-personalen drog en gräns kring Canton Coin",
+          "paragraphs": [
+            "SEC:s bolagsfinansieringsavdelning uppdaterade den 2 november sina frågor och svar om hur amerikanska värdepapperslagar kan tillämpas på kryptotillgångar. Där skiljer personalen mellan ett funktionellt nätverk, där den inbyggda tillgången kan användas enligt nätverkets regler, och ett decentraliserat nätverk, där ingen person eller grupp har den avgörande kontrollen. Vägledningen är personalens syn och har inte samma rättsliga ställning som en beslutad regel från myndigheten.",
+            "Dagen därpå skrev samma avdelning att Canton Coin, utifrån de uppgifter som lämnats in, betraktas som en digital råvara enligt SEC:s tolkning. Personalen avser inte att rekommendera en tillsynsåtgärd när nya enheter av Canton Coin skapas programmatiskt på det sätt som beskrivits, utan registrering enligt de angivna värdepappersreglerna.",
+            "Det är ett så kallat no-action-besked: personalen anger hur den väntas agera i ett bestämt fall. SEC betonar att andra fakta kan leda till en annan slutsats och att brevet inte är ett juridiskt avgörande. Betydelsen ligger därför i den mer konkreta gränsdragningen, inte i ett allmänt frikort för Canton eller andra nätverk."
+          ],
+          "sourceIds": [
+            "sec-faq",
+            "sec-canton"
+          ]
+        },
+        {
+          "heading": "Tokeniserad amerikansk aktie började handlas under nytt undantag",
+          "paragraphs": [
+            "Den 4 november genomfördes enligt Canton Strategic Holdings de första affärerna med bolagets CNTN-aktie i tokeniserad form under SEC:s så kallade Innovation Exemption. En tokeniserad aktie är en digital representation som registreras på en blockkedja, men den ska fortfarande ge samma ekonomiska rättigheter och ägarrättigheter som motsvarande vanliga aktie.",
+            "Handeln skedde på TSV, en tillståndsstyrd marknadsplats som använder Tradecrafts automatiserade likviditetspooler på Canton Network. Marknadsplatsens offentliga villkor säger att identitet, juridisk person, verklig huvudman, sanktioner och godkända plånboksadresser kontrolleras innan handel. Vid starten finns CNTN mot bland annat USDC och SBC, och endast godkända deltagare kan använda poolerna.",
+            "SEC:s undantag är tillfälligt och förenat med gränser för bland annat antal aktier, volym, handelsstopp och offentlig granskning av smarta kontrakt. TSV är inte en registrerad nationell börs och SEC har inte godkänt marknadsplatsens innehåll eller investeringarnas kvalitet. Händelsen visar att blockkedjeteknik nu testas med riktiga amerikanska aktier, men i en begränsad och kontrollerad miljö snarare än på en helt öppen marknad."
+          ],
+          "sourceIds": [
+            "canton-stock",
+            "tsv",
+            "sec-tokenized"
+          ]
+        },
+        {
+          "heading": "Circle rapporterade större USDC-volymer – men intäkterna behöver delas upp",
+          "paragraphs": [
+            "Circle redovisade den 4 november ett genomsnitt på 73,3 miljarder dollar i USDC i omlopp under tredje kvartalet, 8 procent mer än ett år tidigare. Transaktionsvolymen på blockkedjor uppgick enligt rapporten till 13,9 biljoner dollar, en ökning med 49 procent. Den siffran mäter värde som flyttats på kedjorna och ska inte automatiskt tolkas som betalningar av varor eller nya pengar i systemet.",
+            "Bolagets totala intäkter och reservintäkter ökade 17 procent till 865 miljoner dollar. Nettoresultatet från kvarvarande verksamheter var 226 miljoner dollar. En viktig detalj är att 182 miljoner dollar av övriga intäkter kom från en förhandsförsäljning av ARC-token. Circles justerade resultat förbättrades alltså inte enbart genom högre användning av USDC.",
+            "Circle meddelade också ett avtal om att köpa betalningsföretaget Tazapay, med planerat slutförande 2027 om myndigheterna godkänner affären. Förvärvet är ännu inte genomfört. Rapporten visar både ökad aktivitet kring stablecoins och hur Circles resultat påverkas av räntan på reserver, distributionskostnader och nya tokenintäkter."
+          ],
+          "sourceIds": [
+            "circle-q3"
+          ]
+        },
+        {
+          "heading": "Ethereum bad projekt granska åtta antaganden före Glamsterdam",
+          "paragraphs": [
+            "Ethereum Foundation förklarade den 6 november varför arbetet med uppgraderingen Glamsterdam har bromsats. Säkerhetsföretaget ChainSecurity har under tester hittat projekt som kan bli sårbara när EIP-8037 och EIP-8038 ändrar hur gas tas ut för vissa operationer och för lagring av data. Gas är avgiften och beräkningsbudgeten för arbete på Ethereum.",
+            "Utvecklarna har därför skjutit upp uppgraderingen på testnätet Hoodi medan problemen utreds. Ethereum Foundation ber kontraktsutvecklare och revisorer kontrollera om deras projekt bygger på någon av åtta tekniska egenskaper som förändras. Arbetet med den senare uppgraderingen Hegota fortsätter parallellt.",
+            "Varningen gäller möjliga kompatibilitetsproblem efter en framtida uppgradering. Den innebär inte att Ethereums nuvarande huvudnät har drabbats eller att alla smarta kontrakt är sårbara. Att frågorna upptäcktes i testningen visar samtidigt varför testnät och externa granskningar är viktiga innan en ändring når riktiga tillgångar."
+          ],
+          "sourceIds": [
+            "ethereum"
+          ]
+        },
+        {
+          "heading": "Bitcoin svängde mellan ungefär 75 000 och 81 000 dollar",
+          "paragraphs": [
+            "Coinbase marknadsdata visar att bitcoin öppnade veckan omkring 78 200 dollar. Kursen steg över 81 000 dollar den 4 november men föll till strax under 75 000 dollar den 6 november. Vid publicering på söndagskvällen handlades bitcoin omkring 75 800 dollar på Coinbase. Priserna är ögonblicksbilder från en handelsplats och kan skilja sig något mellan börser.",
+            "Coinbase Research beskrev redan vid veckans början en mer försiktig positionering efter oktober. Enligt analysen hade efterfrågan i amerikanska bitcoin- och ether-ETF:er blivit negativ, samtidigt som optionsmarknaden visade mer skydd mot nedgång och belåningen i bitcoin ökade utan lika tydligt stöd från spotköpare. Det är företagets marknadsanalys, inte en fastställd förklaring till varje kursrörelse.",
+            "Veckans prisrörelse visar hur snabbt högre belåning och försiktigare riskvilja kan förstärka svängningar. Den säger däremot inte var bitcoinpriset går härnäst. För att bedöma marknadsläget behöver priset läsas tillsammans med likviditet, derivatpositioner och faktisk efterfrågan."
+          ],
+          "sourceIds": [
+            "coinbase-price",
+            "coinbase-market"
+          ]
+        },
+        {
+          "heading": "Det här är värt att följa",
+          "paragraphs": [
+            "Nästa vecka är det värt att följa om SEC:s nya vägledning leder till fler avgränsade no-action-ansökningar, och hur mycket faktisk handel som sker på den tokeniserade aktiemarknaden efter de första affärerna. För Circle blir det viktigt att skilja utvecklingen för USDC från tillfälliga eller nya intäktskällor.",
+            "På Ethereum är nästa tekniska besked om Glamsterdam viktigare än ett tidigare planerat datum. För den bredare marknaden blir det centralt att följa om den försiktiga positioneringen består efter veckans fall. Inget av veckans besked ger en säker prisprognos, men tillsammans visar de hur regler, infrastruktur, bolagsresultat och tekniska risker påverkar kryptomarknaden."
+          ],
+          "sourceIds": [
+            "sec-canton",
+            "tsv",
+            "circle-q3",
+            "ethereum",
+            "coinbase-market"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "sec-faq",
+          "name": "SEC – uppdaterade frågor och svar om kryptotillgångar, 2 november 2026",
+          "url": "https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets"
+        },
+        {
+          "id": "sec-canton",
+          "name": "SEC – no-action-besked om Canton Coin, 3 november 2026",
+          "url": "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326"
+        },
+        {
+          "id": "canton-stock",
+          "name": "Canton Strategic Holdings – första tokeniserade CNTN-affärerna, 4 november 2026",
+          "url": "https://www.prnewswire.com/news-releases/first-trades-of-tokenized-us-equity-under-sec-innovation-exemption-executed-on-the-canton-network-302929795.html"
+        },
+        {
+          "id": "tsv",
+          "name": "TSV – offentlig information om den tokeniserade marknadsplatsen",
+          "url": "https://www.tokenizedstockvenue.com/notice-1.4.html"
+        },
+        {
+          "id": "sec-tokenized",
+          "name": "SEC – villkor för Innovation Exemption för tokeniserade aktier",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+        },
+        {
+          "id": "circle-q3",
+          "name": "Circle – kvartalsrapport för tredje kvartalet 2026, 4 november 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000309/finalq3epr-110326.htm"
+        },
+        {
+          "id": "ethereum",
+          "name": "Ethereum Foundation – teknisk varning om Glamsterdam, 6 november 2026",
+          "url": "https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038"
+        },
+        {
+          "id": "coinbase-price",
+          "name": "Coinbase Exchange – dagliga BTC-USD-priser 2–8 november 2026",
+          "url": "https://api.exchange.coinbase.com/products/BTC-USD/candles?granularity=86400&start=2026-11-02T00%3A00%3A00Z&end=2026-11-09T00%3A00%3A00Z"
+        },
+        {
+          "id": "coinbase-market",
+          "name": "Coinbase Research – marknadspositionering i november 2026",
+          "url": "https://www.coinbase.com/institutional/research-insights/research/trading-insights/crypto-market-positioning-november-2026"
+        }
+      ]
     }
   ]
 }
