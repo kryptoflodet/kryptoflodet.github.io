@@ -1339,6 +1339,182 @@
           "url": "https://www.coinbase.com/institutional/research-insights/research/trading-insights/crypto-market-positioning-november-2026"
         }
       ]
+    },
+    {
+      "id": "2026-11-22",
+      "title": "Kryptoveckan: bitcoin föll, Backpack godkändes och DBS öppnar för USDC",
+      "dek": "Bitcoin och ether föll kraftigt innan en del av nedgången hämtades tillbaka. Samtidigt tog blockkedjebaserad derivathandel ett steg in i USA:s reglerade marknad och DBS öppnade en ny väg mellan dollar och USDC.",
+      "publishedAt": "2026-11-22T20:00:42+01:00",
+      "period": "16–22 november 2026",
+      "readingMinutes": 5,
+      "takeaways": [
+        "Bitcoin föll från drygt 65 000 dollar till som lägst omkring 55 100 dollar under veckan, innan återhämtningen på söndagen.",
+        "CFTC godkände TLD Markets som amerikansk derivatbörs, med krav på kundskydd och riskhantering.",
+        "DBS och Circle kopplar USDC närmare banksystemet, medan tillsynsmyndigheter fortsätter ingripa mot falska kryptoplattformar."
+      ],
+      "sections": [
+        {
+          "heading": "Veckan i korthet",
+          "paragraphs": [
+            "Veckan den 16–22 november präglades av stora prisrörelser och nya kopplingar till reglerad finans. CFTC öppnade för en blockkedjebaserad derivatbörs, USA:s högsta domstol avstod från att pröva Custodia Banks mål och DBS presenterade ett nytt USDC-samarbete."
+          ],
+          "sourceIds": [
+            "coinbase-btc",
+            "coinbase-eth",
+            "cftc-backpack",
+            "scotus-custodia",
+            "dbs-circle",
+            "sec-fraud",
+            "ethereum-call"
+          ]
+        },
+        {
+          "heading": "Bitcoin föll under 56 000 dollar och återhämtade sig delvis",
+          "paragraphs": [
+            "Coinbase marknadsdata visar att bitcoin öppnade måndagen kring 65 300 dollar. På lördagen noterades veckans lägsta pris omkring 55 100 dollar, ungefär 16 procent under måndagens öppning. På söndagskvällen handlades bitcoin åter kring 60 700 dollar. Ether följde samma riktning: från cirka 1 835 dollar vid veckans början till som lägst omkring 1 535 dollar, och därefter tillbaka till cirka 1 710 dollar vid publicering.",
+            "Priserna är ögonblicksbilder från Coinbase och kan skilja sig mellan handelsplatser. Datan visar en kraftig nedgång och återhämtning, men fastställer inte orsaken. En snabb uppgång efter ett fall visar inte heller att marknaden har vänt långsiktigt."
+          ],
+          "sourceIds": [
+            "coinbase-btc",
+            "coinbase-eth"
+          ]
+        },
+        {
+          "heading": "CFTC godkände Backpack-struktur för börs och clearing",
+          "paragraphs": [
+            "USA:s råvaru- och derivatmyndighet CFTC utsåg den 16 november TLD Markets till en så kallad designated contract market, en reglerad marknadsplats för derivat. Bolaget hör till Backpack. Tre dagar tidigare hade TLD Clearing, som verkar under namnet Backpack Clearing, registrerats som clearingorganisation för bland annat terminer, optioner på terminer och swappar.",
+            "Clearing är processen där affärer matchas, säkerheter hanteras och parternas skyldigheter räknas av. CFTC uppger att strukturen använder blockkedjeteknik för genomförande och avveckling, men att samma krav på bland annat kundskydd, separerade kundmedel, penningtvättskontroller, marknadsövervakning och riskhantering gäller som för traditionell infrastruktur.",
+            "Beskedet betyder att en blockkedjebaserad aktör har fått en reglerad väg för amerikansk derivathandel. Det säger däremot inte att varje framtida produkt är godkänd eller lämplig för alla kunder. Vilka kontrakt som faktiskt lanseras och under vilka villkor behöver bedömas separat."
+          ],
+          "sourceIds": [
+            "cftc-backpack",
+            "cftc-dcm",
+            "cftc-clearing"
+          ]
+        },
+        {
+          "heading": "USA:s högsta domstol tog inte upp Custodia Banks mål",
+          "paragraphs": [
+            "USA:s högsta domstol avslog den 16 november Custodia Banks begäran om att få sitt mål mot Federal Reserve prövat. Custodia är en Wyoming-baserad bank med inriktning på digitala tillgångar och hade sökt ett så kallat master account. Ett sådant konto ger en finansiell institution direkt tillgång till vissa av Federal Reserves betalnings- och avvecklingstjänster.",
+            "När högsta domstolen inte tar upp målet står den tidigare domen från den federala appellationsdomstolen kvar. Den gav Federal Reserve Bank of Kansas City utrymme att avslå ansökan efter sin riskbedömning. Högsta domstolens korta beslut innehåller ingen egen sakprövning och ska därför inte läsas som ett nytt generellt ställningstagande om kryptobanker.",
+            "Beskedet är ändå viktigt för företag som vill koppla kryptotjänster direkt till USA:s centrala betalningsinfrastruktur. Det visar att en delstatlig banklicens och teknisk betalningsförmåga inte automatiskt ger rätt till ett master account."
+          ],
+          "sourceIds": [
+            "scotus-custodia",
+            "ca10-custodia",
+            "fed-master"
+          ]
+        },
+        {
+          "heading": "DBS och Circle öppnar direkt väg mellan dollar och USDC",
+          "paragraphs": [
+            "Den asiatiska banken DBS och Circle meddelade den 18 november ett samarbete för institutionella kunder. Godkända kunder ska kunna skapa och lösa in USDC direkt genom DBS, med möjlighet till avveckling mellan amerikanska dollar och USDC dygnet runt. Stablecoinen är utformad för att följa dollarn, medan skapande och inlösen är processerna som ökar eller minskar mängden USDC mot motsvarande dollarvärde.",
+            "Den praktiska betydelsen är att institutioner kan få en bankansluten väg till Circles inlösenmekanism i stället för att enbart köpa eller sälja USDC på en andrahandsmarknad. Bolagen anger likviditet, avveckling och kassahantering som användningsområden. Det är ett lanserat samarbete, men källan redovisar inte några genomförda volymer eller hur många kunder som har anslutits. Faktisk användning återstår därför att följa."
+          ],
+          "sourceIds": [
+            "dbs-circle"
+          ]
+        },
+        {
+          "heading": "SEC anklagar åtta bolag bakom falska kryptoplattformar",
+          "paragraphs": [
+            "SEC väckte den 19 november talan mot åtta bolag som enligt myndigheten användes för att lura amerikanska investerare på mer än 37 miljoner dollar. De misstänkta uppläggen började med annonser i sociala medier och fortsatte i grupp- och privatkonversationer. Offren leddes sedan till handelsplattformar där de trodde att riktiga kryptotillgångar köptes.",
+            "Enligt SEC användes falska myndighetsintyg och verkliga registreringsformulär för att skapa trovärdighet. Uppläggen ska ha drivits i fyra kombinationer av påstådda rådgivare och handelsplattformar mellan augusti 2024 och maj 2026. Det rör sig om anklagelser i en inlämnad stämningsansökan; domstolen har ännu inte fastställt ansvar eller beslutat om återbetalning.",
+            "Händelsen visar varför en registrering eller ett dokument med en myndighets logotyp inte räcker som kontroll. Namn, webbadress, kontaktperson och registreringsstatus behöver jämföras direkt med myndighetens egna register."
+          ],
+          "sourceIds": [
+            "sec-fraud"
+          ]
+        },
+        {
+          "heading": "Ethereum-utvecklare lutar åt nuvarande Glamsterdam-plan",
+          "paragraphs": [
+            "På Ethereums utvecklarmöte den 19 november diskuterades de kontraktsproblem som tidigare stoppade Glamsterdam på testnätet Hoodi. Den preliminära inriktningen var att gå vidare med den nuvarande specifikationen för EIP-8037 och EIP-8038, om inte ett tillräckligt genomarbetat alternativ presenteras. Förslagen ändrar hur gas, alltså kostnaden för beräkningsarbete och lagring, tas ut.",
+            "En möjlig Hoodi-aktivering placerades i veckan som börjar den 14 december, med ett senare definitivt beslut. Utvecklarna bedömde samtidigt att mitten av januari är den tidigaste realistiska tidpunkten för huvudnätet om specifikationen behålls. Detta är mötesanteckningar och en preliminär riktning, inte ett fastställt aktiveringsdatum. Nätverksanvändare behöver därför invänta ett formellt besked."
+          ],
+          "sourceIds": [
+            "ethereum-call",
+            "ethereum-summary"
+          ]
+        },
+        {
+          "heading": "Det här är värt att följa",
+          "paragraphs": [
+            "Nästa vecka blir det viktigt att följa om återhämtningen i bitcoin och ether håller i sig utan nya tvära svängningar. För Backpack är nästa konkreta fråga vilka derivat som erbjuds och hur kundskyddet fungerar i praktiken. För DBS och Circle är användning och volymer mer betydelsefulla än själva partnerskapsrubriken.",
+            "Ethereum-utvecklarnas kommande beslut om Hoodi kan avgöra om Glamsterdam går vidare med nuvarande gasregler. Custodia-beskedet och SEC:s stämning visar två regulatoriska spår: tillgång till central infrastruktur och ingripanden mot påstådda bedrägerier. Ingen av händelserna ger en säker prisprognos."
+          ],
+          "sourceIds": [
+            "coinbase-btc",
+            "cftc-backpack",
+            "scotus-custodia",
+            "dbs-circle",
+            "sec-fraud",
+            "ethereum-call"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "coinbase-btc",
+          "name": "Coinbase Exchange – dagliga BTC-USD-priser 16–22 november 2026",
+          "url": "https://api.exchange.coinbase.com/products/BTC-USD/candles?granularity=86400&start=2026-11-16T00%3A00%3A00Z&end=2026-11-23T00%3A00%3A00Z"
+        },
+        {
+          "id": "coinbase-eth",
+          "name": "Coinbase Exchange – dagliga ETH-USD-priser 16–22 november 2026",
+          "url": "https://api.exchange.coinbase.com/products/ETH-USD/candles?granularity=86400&start=2026-11-16T00%3A00%3A00Z&end=2026-11-23T00%3A00%3A00Z"
+        },
+        {
+          "id": "cftc-backpack",
+          "name": "CFTC – uttalande om den blockkedjebaserade marknadsstrukturen, 16 november 2026",
+          "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626"
+        },
+        {
+          "id": "cftc-dcm",
+          "name": "CFTC – TLD Markets utses till reglerad derivatbörs, 16 november 2026",
+          "url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizations/60617"
+        },
+        {
+          "id": "cftc-clearing",
+          "name": "CFTC – registrering av Backpack Clearing, 13 november 2026",
+          "url": "https://www.cftc.gov/IndustryOversight/IndustryFilings/ClearingOrganizations/60669"
+        },
+        {
+          "id": "scotus-custodia",
+          "name": "USA:s högsta domstol – mål 26-62, Custodia Bank",
+          "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html"
+        },
+        {
+          "id": "ca10-custodia",
+          "name": "USA:s appellationsdomstol för tionde kretsen – Custodia Bank, mål 24-8024",
+          "url": "https://www.ca10.uscourts.gov/opinion/24-8024"
+        },
+        {
+          "id": "fed-master",
+          "name": "Federal Reserve – förklaring av master accounts",
+          "url": "https://www.federalreserve.gov/paymentsystems/master-account-and-services-database-faq.htm"
+        },
+        {
+          "id": "dbs-circle",
+          "name": "DBS – samarbete med Circle om USDC, 18 november 2026",
+          "url": "https://www.dbs.com/newsroom/DBS_and_Circle_expand_institutional_access_to_USDC_in_Asia"
+        },
+        {
+          "id": "sec-fraud",
+          "name": "SEC – stämning om falska kryptoplattformar, 19 november 2026",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
+        },
+        {
+          "id": "ethereum-call",
+          "name": "Ethereum PM – All Core Devs Execution 249, 19 november 2026",
+          "url": "https://github.com/ethereum/pm/issues/2285"
+        },
+        {
+          "id": "ethereum-summary",
+          "name": "Ethereum Magicians – mötessammanfattning om Glamsterdam, 19 november 2026",
+          "url": "https://ethereum-magicians.org/t/all-core-devs-execution-acde-249-november-19-2026/30071/3"
+        }
+      ]
     }
   ]
 }
